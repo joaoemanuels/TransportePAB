@@ -1,0 +1,20 @@
+
+# Ignorar a pasta node_modules
+node_modules/
+.next
+ 
+
+# Ignorar arquivos temporários de editores de texto
+*.swp
+*.bak
+
+# Ignorar arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar diretórios de build
+/build/
+/dist/
